@@ -81,4 +81,4 @@ If **Balgbe** is invoked with standard input connected to a terminal (determined
 
 ## Authors ##
 Bala Sule
-Damigbe
+Degbe Romuald Adjimagbe(Software Engineer)
