@@ -45,7 +45,7 @@ ssize_t input_buf(info_t *info, char **buf, size_t *len)
 }
 
 /**
- * get_input - gets a line minus the newline
+ * get_input -is the name of he function and it will gets a line minus the newLine
  * @info: parameter struct
  *
  * Return: bytes read
